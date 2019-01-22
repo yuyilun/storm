@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/project/!svn/ver/86/storm-starter-lesson/test/jvm/storm/starter/bolt
+END
+RollingCountBoltTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/project/!svn/ver/86/storm-starter-lesson/test/jvm/storm/starter/bolt/RollingCountBoltTest.java
+END
+TotalRankingsBoltTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/project/!svn/ver/86/storm-starter-lesson/test/jvm/storm/starter/bolt/TotalRankingsBoltTest.java
+END
+IntermediateRankingsBoltTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/project/!svn/ver/86/storm-starter-lesson/test/jvm/storm/starter/bolt/IntermediateRankingsBoltTest.java
+END

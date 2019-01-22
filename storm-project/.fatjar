@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Sat Jan 19 18:43:06 CST 2019
+onejar.license.required=false
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=false
+jarname=D\:\\data\\app\\hadoop\\storm\\storm20190116001.jar
+manifest.mergeall=true
+manifest.mainclass=cloudy.trident.TridentTopo
+manifest.file=<createnew>
+jarname.isextern=true
+onejar.expand=
+excludes=<po|storm-project>
+includes=<inc|storm-project/build\\classes>
